@@ -1,5 +1,5 @@
 # Read Me First
-The following was discovered as part of building this project:
+
 
 * The API base endpoint is `/api/v1/device`
 
